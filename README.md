@@ -1,2 +1,2 @@
 # PowerBI
-Power BI dashboards and reports showcasing data storytelling and actionable insights through elegant visuals.
+A showcase of my work in Power BI, where I turn data into stories and insights through clear, elegant visuals that make decision-making easier.
